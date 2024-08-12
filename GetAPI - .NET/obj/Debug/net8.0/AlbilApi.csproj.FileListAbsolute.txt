@@ -1,0 +1,140 @@
+C:\Dev\AlbilApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Dev\AlbilApi\bin\Debug\net8.0\appsettings.json
+C:\Dev\AlbilApi\bin\Debug\net8.0\AlbilApi.exe
+C:\Dev\AlbilApi\bin\Debug\net8.0\AlbilApi.deps.json
+C:\Dev\AlbilApi\bin\Debug\net8.0\AlbilApi.runtimeconfig.json
+C:\Dev\AlbilApi\bin\Debug\net8.0\AlbilApi.dll
+C:\Dev\AlbilApi\bin\Debug\net8.0\AlbilApi.pdb
+C:\Dev\AlbilApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Dev\AlbilApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\AlbilApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Dev\AlbilApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Dev\AlbilApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\AlbilApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\AlbilApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\AlbilApi\obj\Debug\net8.0\AlbilApi.csproj.AssemblyReference.cache
+C:\Dev\AlbilApi\obj\Debug\net8.0\AlbilApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlbilApi\obj\Debug\net8.0\AlbilApi.AssemblyInfoInputs.cache
+C:\Dev\AlbilApi\obj\Debug\net8.0\AlbilApi.AssemblyInfo.cs
+C:\Dev\AlbilApi\obj\Debug\net8.0\AlbilApi.csproj.CoreCompileInputs.cache
+C:\Dev\AlbilApi\obj\Debug\net8.0\AlbilApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\AlbilApi\obj\Debug\net8.0\AlbilApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\AlbilApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Dev\AlbilApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Dev\AlbilApi\obj\Debug\net8.0\staticwebassets\msbuild.AlbilApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\AlbilApi\obj\Debug\net8.0\staticwebassets\msbuild.build.AlbilApi.props
+C:\Dev\AlbilApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlbilApi.props
+C:\Dev\AlbilApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlbilApi.props
+C:\Dev\AlbilApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Dev\AlbilApi\obj\Debug\net8.0\scopedcss\bundle\AlbilApi.styles.css
+C:\Dev\AlbilApi\obj\Debug\net8.0\AlbilApi.csproj.Up2Date
+C:\Dev\AlbilApi\obj\Debug\net8.0\AlbilApi.dll
+C:\Dev\AlbilApi\obj\Debug\net8.0\refint\AlbilApi.dll
+C:\Dev\AlbilApi\obj\Debug\net8.0\AlbilApi.pdb
+C:\Dev\AlbilApi\obj\Debug\net8.0\AlbilApi.genruntimeconfig.cache
+C:\Dev\AlbilApi\obj\Debug\net8.0\ref\AlbilApi.dll
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\appsettings.Development.json
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\appsettings.json
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\AlbilApi.exe
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\AlbilApi.deps.json
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\AlbilApi.runtimeconfig.json
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\AlbilApi.dll
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\AlbilApi.pdb
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\AlbilStaj\GetAPI - DotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.csproj.AssemblyReference.cache
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.AssemblyInfoInputs.cache
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.AssemblyInfo.cs
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.csproj.CoreCompileInputs.cache
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets.build.json
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets.development.json
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets\msbuild.AlbilApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets\msbuild.build.AlbilApi.props
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlbilApi.props
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlbilApi.props
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\scopedcss\bundle\AlbilApi.styles.css
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.csproj.Up2Date
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.dll
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\refint\AlbilApi.dll
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.pdb
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.genruntimeconfig.cache
+C:\Dev\AlbilStaj\GetAPI - DotNet\obj\Debug\net8.0\ref\AlbilApi.dll
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\appsettings.Development.json
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\appsettings.json
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\AlbilApi.exe
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\AlbilApi.deps.json
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\AlbilApi.runtimeconfig.json
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\AlbilApi.dll
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\AlbilApi.pdb
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\GetAPI - DotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.csproj.AssemblyReference.cache
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.AssemblyInfoInputs.cache
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.AssemblyInfo.cs
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.csproj.CoreCompileInputs.cache
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets.build.json
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets.development.json
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets\msbuild.AlbilApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets\msbuild.build.AlbilApi.props
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlbilApi.props
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlbilApi.props
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\scopedcss\bundle\AlbilApi.styles.css
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.csproj.Up2Date
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.dll
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\refint\AlbilApi.dll
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.pdb
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\AlbilApi.genruntimeconfig.cache
+C:\Dev\GetAPI - DotNet\obj\Debug\net8.0\ref\AlbilApi.dll
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\appsettings.Development.json
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\appsettings.json
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\AlbilApi.exe
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\AlbilApi.deps.json
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\AlbilApi.runtimeconfig.json
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\AlbilApi.dll
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\AlbilApi.pdb
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\AlbilStaj\GetAPI - .NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\AlbilApi.csproj.AssemblyReference.cache
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\AlbilApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\AlbilApi.AssemblyInfoInputs.cache
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\AlbilApi.AssemblyInfo.cs
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\AlbilApi.csproj.CoreCompileInputs.cache
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\AlbilApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\AlbilApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\staticwebassets\msbuild.AlbilApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\staticwebassets\msbuild.build.AlbilApi.props
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlbilApi.props
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlbilApi.props
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\scopedcss\bundle\AlbilApi.styles.css
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\AlbilApi.csproj.Up2Date
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\AlbilApi.dll
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\refint\AlbilApi.dll
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\AlbilApi.pdb
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\AlbilApi.genruntimeconfig.cache
+C:\Dev\AlbilStaj\GetAPI - .NET\obj\Debug\net8.0\ref\AlbilApi.dll
